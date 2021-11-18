@@ -9,6 +9,10 @@
 #include <sys/wait.h>
 #include <pthread.h>
 
+// Written By Euijin Kang
+// Contributor: Charlie Curtsinger, Jung Seok Choi
+// Last Updated: 11/18/2021
+
 // This is the maximum number of arguments your shell should handle for one command
 #define MAX_ARGS 128
 
